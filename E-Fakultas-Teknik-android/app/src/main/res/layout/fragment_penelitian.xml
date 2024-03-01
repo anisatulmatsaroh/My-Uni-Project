@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".Penelitian"
+    android:background="@drawable/bg2"
+    android:padding="20dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#FFFFFFFF">
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/judul"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/penelitian_dosen"
+            android:background="#000000"
+            android:textColor="#FFFFFFFF"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textview4"
+            android:layout_width="368dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textview3"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="195dp"
+            android:text="@string/_1_dr_h_rachmad_hidayat_s_t_m_t"
+            android:textColor="#BFBDBD"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textview5"
+            android:layout_width="372dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textview4"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="216dp"
+            android:text="@string/_2_ari_basuki_s_t_m_t"
+            android:textColor="#BAB7B7"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textview6"
+            android:layout_width="372dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textview5"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="236dp"
+            android:text="@string/_3_aeri_rachmad_s_t_m_t"
+            android:textColor="#B6B5B5"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textview7"
+            android:layout_width="371dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textview6"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="257dp"
+            android:text="@string/_4_fitri_damayanti_s_kom_m_kom"
+            android:textColor="#2196F3"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textview8"
+            android:layout_width="370dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textview7"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="277dp"
+            android:text="@string/_5_muhammad_ali_syakur_s_si_m_t"
+            android:textColor="#2196F3"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            tools:ignore="UnknownId" />
+
+        <TextView
+            android:id="@+id/textview9"
+            android:layout_width="361dp"
+            android:layout_height="34dp"
+            android:layout_below="@id/textview8"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="298dp"
+            android:text="@string/_6_dr_indah_agustien_siradjuddin_s_kom_m_kom"
+            android:textColor="#2196F3"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textview10"
+            android:layout_width="286dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textview9"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="333dp"
+            android:text="@string/_7_dr_hakam_muzakki"
+            android:textColor="#2196F3"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textview11"
+            android:layout_width="335dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textview10"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="353dp"
+            android:text="@string/_8_dr_sabarudin_akhmad_s_t_m_t"
+            android:textColor="#2196F3"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textview12"
+            android:layout_width="334dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textview11"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="373dp"
+            android:text="@string/_9_wahyudi_agustiono_s_kom_m_sc_ph_d"
+            android:textColor="#2196F3"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textview13"
+            android:layout_width="367dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textview12"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="393dp"
+            android:text="@string/_10_dr_yeni_kustiyahningsih_s_kom_m_kom"
+            android:textColor="#2196F3"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textview14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textview13"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="414dp"
+            android:text="@string/_11_dr_noor_ifada_s_t_m_isd"
+            android:textColor="#2196F3"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textview15"
+            android:layout_width="372dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/textview14"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="434dp"
+            android:text="@string/_12_issa_dyah_utami_s_t_ph_d"
+            android:textColor="#2196F3"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textview16"
+            android:layout_width="365dp"
+            android:layout_height="21dp"
+            android:layout_below="@id/textview15"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="455dp"
+            android:layout_marginBottom="249dp"
+            android:text="@string/_13_arik_kurniawati_s_kom_m_t"
+            android:textColor="#2196F3"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textview3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textview2"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="160dp"
+            android:layout_marginEnd="30dp"
+            android:text="@string/ijcst_2019"
+            android:textColor="#878787"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textview2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="103dp"
+            android:layout_marginEnd="12dp"
+            android:text="@string/ijcst_2018_icst_atlantis_press"
+            android:textColor="#878787"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <TextView
+
+            android:id="@+id/textview1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="44dp"
+            android:layout_marginEnd="0dp"
+            android:linksClickable="true"
+            android:text="@string/ijcst_2017_iop_publishing"
+            android:textColor="#878787"
+            android:textSize="15sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="108dp"
+            android:layout_height="37dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="65dp"
+            android:text="@string/download_file_1"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small" />
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="109dp"
+            android:layout_height="36dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="123dp"
+            android:text="@string/download_file_2"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small" />
+                </RelativeLayout>
+        </LinearLayout>
+</RelativeLayout>
+

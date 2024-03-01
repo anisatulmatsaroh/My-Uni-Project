@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">E-Fakultas Teknik</string>
+    <string name="visi_misi">VISI MISI</string>
+    <string name="visi_fakultas_teknik_universitas_trunojoyo_madura">Visi Fakultas Teknik Universitas Trunojoyo Madura</string>
+    <string name="akhir_tahun_2022_fakultas_teknikuniversitas_trunojoyo_madura_menjadi_fakultas_yang_unggul_di_tingkat_nasional_dalam_bidang_pendidikan_dan_riset_engineering">Akhir tahun 2022, Fakultas TeknikUniversitas Trunojoyo Madura menjadi Fakultas yang unggul di tingkat Nasional dalam Bidang Pendidikan dan Riset Engineering.</string>
+    <string name="misi_fakultas_teknik_universitas_trunojoyo_madura">Misi Fakultas Teknik Universitas Trunojoyo Madura</string>
+    <string name="_1_menyelenggarakan_pendidikan_yang_berkualitas_untuk_menghasilkan_lulusan_ilmu_pengetahuan_dan_teknologi_yang_sesuai_dengan_kebutuhan_stakeholder">1. Menyelenggarakan pendidikan yang berkualitas untuk menghasilkan lulusan, ilmu pengetahuan dan teknologi yang sesuai dengan kebutuhan stakeholder;</string>
+    <string name="_2_melakukan_penelitian_untuk_mendukung_peningkatan_kualitas_pendidikan_ilmu_pengetahuan_dan_teknologi">2. Melakukan penelitian untuk mendukung peningkatan kualitas pendidikan, ilmu pengetahuan dan teknologi;</string>
+    <string name="_3_melaksanakan_pengabdian_kepada_masyarakat_berbasis_ilmu_pengetahuan_teknologi_dan_hasil_penelitian_untuk_memberikan_kontribusi_bagi_masyarakat">3. Melaksanakan pengabdian kepada masyarakat berbasis ilmu pengetahuan, teknologi dan hasil penelitian untuk memberikan kontribusi bagi masyarakat</string>
+    <string name="tujuan_fakultas_teknik_universitas_trunojoyo_madura">Tujuan Fakultas Teknik Universitas Trunojoyo Madura</string>
+    <string name="_1_menghasilkan_lulusan_yang_mampu_memenuhi_kebutuhan_stakeholdernya">1. Menghasilkan  lulusan yang mampu memenuhi kebutuhan stakeholdernya;</string>
+    <string name="_2_membentuk_sistem_pendidikan_yang_handal_rebiable_untuk_mengembangkan_ilmu_dan_pengetahuan_dalam_bidang_engineeringyang_sesuai_dengan_kebutuhan_stakeholder">2. Membentuk sistem pendidikan yang handal (rebiable) untuk mengembangkan ilmu dan pengetahuan dalam bidang engineeringyang sesuai dengan kebutuhan stakeholder;</string>
+    <string name="_3_meningkatkan_hasil_karya_penelitian_dalam_bentuk_publikasi_ilmiah_dan_terapan_teknologi_yang_bermamfaat_bagi_civitas_akademik_dan_masyarakat">3. Meningkatkan hasil karya penelitian dalam bentuk publikasi ilmiah dan terapan teknologi yang bermamfaat bagi civitas akademik dan masyarakat;</string>
+    <string name="_4_membangun_dan_meningkatkan_kerjasama_dengan_stakeholder_untuk_meningkatkan_kualitas_pendidikan_penelitian_dan_pengabdian_pada_masyarakat">4. Membangun dan meningkatkan kerjasama dengan stakeholder untuk meningkatkan kualitas pendidikan,penelitian dan pengabdian pada masyarakat;</string>
+    <string name="_5_menghasilkan_jalinan_kerja_sama_yang_senergis_dan_berkelanjutan">5. Menghasilkan jalinan kerja sama yang senergis dan berkelanjutan.</string>
+    <string name="example_text">Kalender Akademik 2020/2021|<a href="http://teknik.trunojoyo.ac.id/pdf/Kalender%20Akademik%20TA%202020-2021.pdf">Download</a></string>
+    <string name="example_text1">Kebijakan Akademik|<a href="http://teknik.trunojoyo.ac.id/pdf/kebijakanakademik.pdf"><Button>Download</Button></a></string>
+    <string name="example_text2">Manual Mutu Akademik |<a href="http://teknik.trunojoyo.ac.id/pdf/manualmutu.pdf">Download</a></string>
+    <string name="example_text3">Manual Prosedure Akademik |<a href="http://teknik.trunojoyo.ac.id/pdf/maunualprosedur.pdf">Download</a></string>
+    <string name="example_text4">Organisasi Dan Tata Kerja |<a href="http://teknik.trunojoyo.ac.id/pdf/otk.pdf">Download</a></string>
+    <string name="example_text5">Prodi S1 Teknik Informatika |<a href="http://teknik.trunojoyo.ac.id/pdf/informatika.pdf">Download</a></string>
+    <string name="example_text6">Prodi S1 Teknik Industri |<a href="http://teknik.trunojoyo.ac.id/pdf/industri.pdf">Download</a></string>
+    <string name="example_text7">Prodi S1 Teknik Elektro |<a href="http://teknik.trunojoyo.ac.id/pdf/elektro.pdf">Download</a></string>
+    <string name="example_text8">Prodi S1 Teknik Mesin |<a href="http://teknik.trunojoyo.ac.id/pdf/otk.pdf">Download</a></string>
+    <string name="example_text9">Prodi S1 Sistem Informasi |<a href="http://teknik.trunojoyo.ac.id/pdf/maunualprosedur.pdf">Download</a></string>
+    <string name="example_text10">Prodi D3 Manajemen Informasi |<a href="http://teknik.trunojoyo.ac.id/pdf/d3mi.pdf">Download</a></string>
+    <string name="example_text11">Daftar Dosen Fakultas Teknik |<a href="http://teknik.trunojoyo.ac.id/pdf/HOME%20BASE%20DOSEN%20FT%202018.pdf">Download</a></string>
+    <string name="example_text12">Daftar Staff Tata Usaha |<a href="http://teknik.trunojoyo.ac.id/pdf/Staf_TU.pdf">Download</a></string>
+    <string name="example_text13">Form Penelitian Dosen |<a href="http://teknik.trunojoyo.ac.id/pdf/Form/form%20penelitian%20dosen.pdf">Download</a></string>
+    <string name="example_text14">Form Peminjaman Dokumen Akademik |<a href="http://teknik.trunojoyo.ac.id/pdf/Form/form%20pinjam%20Dok.pdf">Download</a></string>
+    <string name="example_text15">Form Perubahan Nilai/Penghapusan Mata Kuliah|<a href="http://teknik.trunojoyo.ac.id/pdf/maunualprosedur.pdf">Download</a></string>
+    <string name="example_text16">Form Pemohonan Pembuatan Transkrip|<a href="http://teknik.trunojoyo.ac.id/pdf/otk.pdf">Download</a></string>
+    <string name="example_text17">Form Peminjaman KHS|<a href="http://teknik.trunojoyo.ac.id/pdf/informatika.pdf">Download</a></string>
+    <string name="example_text18">Form Pengantar KP Dan TA |<a href="http://teknik.trunojoyo.ac.id/pdf/industri.pdf">Download</a></string>
+    <string name="example_text19">Form Berita Acara Yudisium|<a href="http://teknik.trunojoyo.ac.id/pdf/Form/FORMULIR%20Berita%20Acara%20Yudisium.pdf">Download</a></string>
+    <string name="example_text20">Form Persyaratan Yudisium|<a href="http://teknik.trunojoyo.ac.id/pdf/FY-01%20Form%20%20Persyaratan%20Yudisium.pdf">Download</a></string>
+    <string name="example_text21">Form Mengikudi Sidang(Update Agustus 2018)|<a href="http://teknik.trunojoyo.ac.id/pdf/FY-02%20FORMULIR%20Mengikuti%20Sidang.pdf">Download</a></string>
+    <string name="example_text22">Form Biodata Mahasiswa Yudisium|<a href="http://teknik.trunojoyo.ac.id/pdf/FY-03%20Blanko%20Ijazah%202019.pdf">Download</a></string>
+    <string name="example_text23">Form Yudisium|<a href="http://teknik.trunojoyo.ac.id/pdf/FY-05%20Form%20Yudisium.pdf">Download</a></string>
+    <string name="example_text24">Form Profil Alumni|<a href="http://teknik.trunojoyo.ac.id/pdf/FY-06%20Form%20profil%20alumni.pdf">Download</a></string>
+    <string name="info4">Berkenaan dengan akan diadakannya TEAP (Test of English For Academic Purpose) Online bagi mahasiswa Baru TA 2020/2021 oleh UPT Bahasa yang akan dilaksanakan pada tanggal 10,11, dan 17 Oktober 2020. Adapun jadwal pelkasanaan TEAP online bagi mahasiswa baru dapat dilihat di halaman web UPT Bahasa. Untuk info lebih lengkap bisa diunduh dibawah sini.</string>
+    <string name="info5">Bagi yang ingin mengikuti kegiatan pelatihan penulisan artikel jurnal internasional bisa langsung mendaftar sesuai link yang tercantum di pengumuman tersebut. Kegiatan ini Free untuk umum. Contact Person : Bapak Hery Roosmawan (085730605688)</string>
+    <string name="d_info4"><a href="http://teknik.trunojoyo.ac.id/pdf/CamScanner%2010-08-2020%2010.28.31.pdf">DOWNLOAD FILE</a></string>
+    <string name="d_info"><a href="http://teknik.trunojoyo.ac.id/pdf/PENGUMUMAN%20HERREGISTRASI%20Gasal%202020_2021%20Stamp.pdf">DOWNLOAD FILE</a></string>
+    <string name="d_info21"><a href="https://www.trunojoyo.ac.id/images/stories/Beasiswa_UTM_2020.pdf">Surat dari BI</a></string>
+    <string name="d_info22"><a href="https://www.trunojoyo.ac.id/images/stories/TOR_BEASISWA_BI__TH._2019.pdf">Pedoman BI</a></string>
+    <string name="d_info23"><a href="https://www.trunojoyo.ac.id/images/stories/PENGUMUMAN_BI_2020.pdf">Surat Pengumuman</a></string>
+    <string name="d_info3"><a href="http://teknik.trunojoyo.ac.id/pdf/Jadwal%20KRS%20Stempel%202.pdf">DOWNLOAD FILE</a></string>
+
+    <string name="penelitian_dosen">Penelitian Dosen</string>
+    <string name="ijcst_2017_iop_publishing">IJCST 2017 (IOP Publishing)</string>
+    <string name="ijcst_2018_icst_atlantis_press">IJCST 2018 (ICST Atlantis Press)</string>
+    <string name="ijcst_2019">IJCST 2019kjiu</string>
+    <string name="_1_dr_h_rachmad_hidayat_s_t_m_t">1. Dr. H. Rachmad Hidayat, S.T., M.T</string>
+    <string name="_2_ari_basuki_s_t_m_t">2. Ari Basuki, S.T., M.T</string>
+    <string name="_3_aeri_rachmad_s_t_m_t">3. Aeri Rachmad, S.T., M.T</string>
+    <string name="_4_fitri_damayanti_s_kom_m_kom">4. Fitri Damayanti, S.Kom., M.Kom</string>
+    <string name="_5_muhammad_ali_syakur_s_si_m_t">5. Muhammad Ali Syakur, S.Si., M.T</string>
+    <string name="_6_dr_indah_agustien_siradjuddin_s_kom_m_kom">6. Dr. Indah Agustien Siradjuddin, S.Kom., M.Kom</string>
+    <string name="_7_dr_hakam_muzakki">7. Dr. Hakam Muzakki</string>
+    <string name="_8_dr_sabarudin_akhmad_s_t_m_t">8. Dr. Sabarudin Akhmad, S.T., M.T</string>
+    <string name="_9_wahyudi_agustiono_s_kom_m_sc_ph_d">9. Wahyudi Agustiono, S.Kom., M.Sc, Ph.D</string>
+    <string name="_10_dr_yeni_kustiyahningsih_s_kom_m_kom">10. Dr. Yeni Kustiyahningsih, S.Kom., M.Kom</string>
+    <string name="_11_dr_noor_ifada_s_t_m_isd">11. Dr. Noor Ifada, S.T., M.ISD</string>
+    <string name="_12_issa_dyah_utami_s_t_ph_d">12. Issa Dyah Utami, S.T., Ph.D</string>
+    <string name="_13_arik_kurniawati_s_kom_m_t">13. Arik Kurniawati, S.Kom., M.T</string>
+    <string name="download_file_1">download file 1</string>
+    <string name="download_file_2">download file 2</string>
+    <string name="jurnal">JURNAL</string>
+    <string name="conference_on_smart_green_technology_in_electrical_and_information_system_2013_universitas_udayana_bali_isbn_978_602_7776_72_2">Conference on Smart-Green Technology in Electrical and Information System 2013, Universitas Udayana Bali, ISBN : 978-602-7776-72-2</string>
+    <string name="digital_on_infomation_and_systems_conference_disc_2014_universitas_maranatha_bandung_isbn_978_979_1194_11_2">Digital on Infomation and Systems Conference (DISC) 2014, Universitas Maranatha Bandung,ISBN : 978–979-1194-11-2</string>
+    <string name="konferensi_nasional_sistem_dan_informatika_kns_i_2015_stikom_bali_eissn_2460_8378_issn_1979_9845"><![CDATA[Konferensi Nasional Sistem dan Informatika (KNS&I) 2015, STIKOM Bali, EISSN : 2460-8378, ISSN : 1979-9845]]></string>
+    <string name="digital_on_infomation_and_systems_conference_disc_2015_universitas_maranatha_bandung_isbn_978_979_1194_11_2">Digital on Infomation and Systems Conference (DISC) 2015, Universitas Maranatha Bandung,ISBN : 978-979-1194-11-2</string>
+    <string name="seminar_digital_information_system_conference_disc_2015_universitas_uk_maranatha_isbn_978_979_1194_11_2"><![CDATA[Seminar Digital Information & System Conference DISC 2015 Universitas UK Maranatha ISBN 978-979-1194-11-2]]></string>
+    <string name="seminar_nasional_ilmu_komputer_2014_seminasik_2014_universitas_gadjah_mada_isbn_978_602_19406_2_4">Seminar Nasional Ilmu Komputer 2014 SEMINASIK 2014 Universitas Gadjah Mada, ISBN 978-602-19406-2-4</string>
+    <string name="seminar_teknologi_dan_rekayasa_sentrauniversitas_muhammadyah_malang_isbn_978_979_796_238_6">Seminar Teknologi dan Rekayasa SENTRAUniversitas Muhammadyah Malang, ISBN 978-979-796—238-6</string>
+    <string name="seminar_nasional_teknologi_terapan_2016_sekolah_vokasi_universitas_gadjah_mada_isbn_978_602_1159_18_7">Seminar Nasional Teknologi Terapan 2016 Sekolah Vokasi Universitas Gadjah Mada ISBN 978-602-1159-18-7</string>
+    <string name="telkomnika_telecommunication_computing_electronics_and_control_e_issn_e_issn_2087_278x">Telkomnika (Telecommunication Computing Electronics and Control), E-ISSN: e-ISSN: 2087-278X,</string>
+    <string name="telkomnika_telecommunication_computing_electronics_and_control_issn_e_issn_1693_6930_2087_278x">Telkomnika (Telecommunication Computing Electronics and Control), ISSN-E-ISSN: 1693-6930 / 2087-278X</string>
+    <string name="jurnal_internasional_kemajuan_dalam_teknologi_komputasi_issn_e_issn_20058039_22339337">Jurnal Internasional Kemajuan dalam Teknologi Komputasi, ISSN-E-ISSN: 20058039, 22339337</string>
+    <string name="journal_of_theoretical_and_applied_information_technology_issn_1992_8645_e_issn_1817_3195_penerbit_little_lion_scientific">Journal of Theoretical and Applied Information Technology, ISSN: 1992-8645, E-ISSN: 1817-3195, Penerbit: Little Lion Scientific</string>
+    <string name="seminar_nasional_ergonomi_2009_isbn_978_979_704_802_0">Seminar Nasional Ergonomi 2009 , ISBN : 978-979-704-802-0</string>
+    <string name="prosiding_seminar_nasional_fakultas_teknik_di_umsida_2012_isbn_978_602_18824_0_5">Prosiding seminar nasional Fakultas Teknik di UMSIDA 2012 , ISBN 978-602-18824-0-5</string>
+    <string name="prosiding_seminar_nasional_dan_call_for_paper_industrialisasi_madura_isbn_2302_4135">Prosiding Seminar Nasional dan Call for Paper Industrialisasi Madura, ISBN 2302 – 4135</string>
+    <string name="prosiding_seminar_nasional_terpadu_keilmuan_teknik_industri_isbn_978_602_17634_0_7_teknik_industri_ub_malang">Prosiding Seminar Nasional Terpadu Keilmuan Teknik Industri, ISBN 978-602-17634-0-7, Teknik Industri UB, Malang</string>
+    <string name="seminar_nasional_sistem_informasi_indonesia_sesindo_2009_jurusan_sistem_informasi_fakultas_teknologi_informasi_its_surabaya_isbn_978_979_18985_5">Seminar Nasional Sistem Informasi Indonesia (SESINDO) 2009, Jurusan Sistem Informasi, Fakultas Teknologi Informasi, ITS Surabaya, ISBN 978-979-18985–5</string>
+    <string name="seminar_nasional_matematika_dan_aplikasinya_snma_2017_isbn_978_602_14413_1_2">Seminar Nasional Matematika dan Aplikasinya (SNMA) 2017, ISBN 978-602-14413-1-2</string>
+    <string name="information_systems_international_conference_isico_2013_isbn_978_979_18985_7_7">Information Systems International Conference (ISICO) 2013, ISBN: 978-979-18985-7-7</string>
+    <string name="international_conference_on_maritime_science_and_technology_indonesia_naval_technology_college_2017_issn_2443_2415">International Conference on Maritime Science and Technology, Indonesia Naval Technology College 2017, ISSN 2443-2415</string>
+    <string name="jurnal_internasional_teknik_dan_ilmu_terapan_11">Jurnal Internasional Teknik dan Ilmu Terapan 11</string>
+    <string name="matec_web_dari_konferensi">Matec WEb dari Konferensi</string>
+    <string name="jurnal_internasional_teknologi_informasi_teknik_sains_lanjutan">Jurnal Internasional Teknologi Informasi Teknik Sains Lanjutan</string>
+    <string name="jurnal_teknik_industri_dan_manajemen_jiem">Jurnal Teknik Industri dan Manajemen JIEM</string>
+    <string name="seminar_nasional_manajemen_teknologi_xxi_program_studi_mmt_its_surabaya_isbn_978_602_70604_0_1">Seminar Nasional Manajemen Teknologi XXI Program Studi MMT-ITS, Surabaya, ISBN : 978-602-70604-0-1</string>
+    <string name="seminar_nasional_ilmu_komputer_the_opportunities_and_challenges_in_computational_intelligence_big_data_and_cybernetics_isbn_978_602_19406_2_4">SEMINAR NASIONAL ILMU KOMPUTER “The Opportunities and Challenges in Computational Intelligence, Big Data, and Cybernetics”. ISBN : 978-602-19406-2-4</string>
+    <string name="seminar_nasional_sains_dan_teknologi_2014_fakultas_teknik_universitas_muhammadiyah_jakarta_issn_2407_1846">Seminar Nasional Sains dan Teknologi 2014 Fakultas Teknik Universitas Muhammadiyah Jakarta, ISSN : 2407 – 1846</string>
+    <string name="jurnal_ilmiah_kursor_vol_10_no_1_issn_0216_0544_e_issn_2301_6914">Jurnal Ilmiah Kursor , Vol 10, No 1, ISSN: 0216-0544 (e-ISSN: 2301-6914)</string>
+    <string name="rekayasa_vol_12_no_2_issn_0216_9495_e_issn_2502_5325">Rekayasa , Vol 12, No 2, ISSN: 0216-9495 (e-ISSN: 2502-5325)</string>
+    <string name="rekayasa_vol_13_no_3_issn_0216_9495_e_issn_2502_5325">Rekayasa , Vol 13, No 3, ISSN: 0216-9495 (e-ISSN: 2502-5325)</string>
+    <string name="jurnal_internasional_teknik_dan_sistem_cerdas_ijies_vol_14_no_1_issn_2185_3118">Jurnal Internasional Teknik dan Sistem Cerdas (IJIES) , Vol 14, No 1, ISSN: 2185-3118</string>
+    <string name="prosiding_seminar_nasional_teknik_industri_upn_veteran_jawa_timur">Prosiding Seminar Nasional Teknik Industri UPN “Veteran” Jawa Timur,</string>
+    <string name="proceeding_international_conference_on_sustainable_design_and_manufacturing_2014_isbn_978_0_9561516_4_3">Proceeding International Conference on Sustainable Design and Manufacturing 2014, ISBN 978-0-9561516-4-3</string>
+    <string name="prosiding_konferensi_internasional_tentang_manajemen_siklus_hidup_produk_untuk_pasar_global_2014_isbn_978_3_662_45937_9">Prosiding Konferensi Internasional tentang Manajemen Siklus Hidup Produk untuk Pasar Global 2014, ISBN 978-3-662-45937-9</string>
+    <string name="proceeding_international_conference_on_international_mechanical_and_engineering_education_conference_imeeec_2016_isbn_978_0_7354_1440_2">Proceeding International Conference on International Mechanical and Engineering Education Conference (IMEEEC) 2016, ISBN 978-0-7354-1440-2</string>
+    <string name="telkomnika_telecommunication_computing_electronics_and_control_issn_1693_6930_e_issn_2302_9293">TELKOMNIKA Telecommunication, Computing, Electronics and Control, ISSN: 1693-6930, e-ISSN: 2302-9293</string>
+    <string name="advanced_science_letters_issn_1693_6930_e_issn_2302_9293">Advanced Science Letters, ISSN: 1693-6930, e-ISSN: 2302-9293</string>
+    <string name="jurnal_teknologi_informasi_dan_ilmu_komputer_jtiik_p_issn_2355_7699_e_issn_2528_6579">Jurnal Teknologi Informasi dan Ilmu Komputer (JTIIK), p-ISSN: 2355-7699 e-ISSN: 2528-6579</string>
+</resources>

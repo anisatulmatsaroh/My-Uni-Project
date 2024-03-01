@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/home"
+        android:icon="@drawable/ic_action_home"
+        android:title="Beranda" />
+
+    <item android:id="@+id/visimisi"
+        android:icon="@drawable/ic_action_visimisi"
+        android:title="VisiMisi" />
+
+    <item android:id="@+id/penelitian"
+        android:icon="@drawable/ic_action_penelitian"
+        android:title="Penelitian Dosen" />
+
+    <item android:id="@+id/download"
+        android:icon="@drawable/ic_action_download"
+        android:title="Download"/>
+
+    <item android:id="@+id/profil"
+        android:icon="@drawable/ic_action_profil"
+        android:title="Profil Dosen dan Tendik"/>
+</menu>

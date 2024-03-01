@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.e_ft.Home2"
+    android:id="@+id/fragment_home">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"
+        android:background="@drawable/bg2">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            >
+
+
+                <TextView
+                    android:id="@+id/textView"
+                    android:layout_width="match_parent"
+                    android:layout_height="250dp"
+                    android:background="@drawable/ft1"
+                    android:gravity="center"
+                    android:padding="30dp"
+                    android:text="Selamat Datang di Fakultas Teknik"
+                    android:textColor="@android:color/white"
+                    android:textSize="13pt"
+                    android:textStyle="bold" />
+
+            <TableLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:padding="15dp">
+
+                <TableRow
+                    android:background="#FF333333"
+                    android:padding="1dp"
+                    >
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:textColor="#FFFFFFFF"
+                        android:text="ORGANISASI" />
+                </TableRow>
+
+                <TableRow
+                    android:background="#FFFFFFFF"
+                    android:paddingTop="10dp"
+                    android:paddingBottom="10dp">
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="120dp"
+                        android:layout_weight="1"
+                        android:src="@drawable/ft_dekan" />
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="120dp"
+                        android:layout_weight="1"
+                        android:src="@drawable/ft_wadek2"/>
+
+                </TableRow>
+                <TableRow
+                    android:background="#FF808080"
+                    android:padding="1dp"
+                    >
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:textColor="#FFFFFFFF"
+                        android:textSize="10dp"
+                        android:text="Dekan Fakultas Teknik" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:textColor="#FFFFFFFF"
+                        android:textSize="10dp"
+                        android:text="Wakil Dekan II" />
+                </TableRow>
+                <TableRow
+                    android:background="#FFFFFFFF"
+                    android:paddingTop="10dp"
+                    android:paddingBottom="10dp">
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="120dp"
+                        android:layout_weight="1"
+                        android:src="@drawable/ft_wadek2_"/>
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="115dp"
+                        android:layout_weight="1"
+                        android:src="@drawable/ft_wadek3"/>
+                </TableRow>
+                <TableRow
+                    android:background="#FF808080"
+                    android:padding="1dp"
+                    >
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:textSize="10dp"
+                        android:textColor="#FFFFFFFF"
+                        android:text="Wakil Dekan II" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:textSize="10dp"
+                        android:textColor="#FFFFFFFF"
+                        android:text="Wakil Dekan III" />
+                </TableRow>
+            </TableLayout>
+            <TableLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent">
+                <TableRow
+                    android:background="#FF333333"
+                    android:padding="1dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:textColor="#FFFFFFFF"
+                        android:text="PROGRAM STUDI" />
+                </TableRow>
+
+                <TableRow
+                    android:background="#FF333333"
+                    android:padding="1dp">
+                    <ImageButton
+                        android:id="@+id/b_tif"
+                        android:layout_width="wrap_content"
+                        android:layout_height="80dp"
+                        android:layout_weight="1"
+                        android:scaleType="centerCrop"
+                        android:background="#FF333333"
+                        android:src="@drawable/tif" />
+                    <ImageButton
+                        android:id="@+id/b_tind"
+                        android:layout_width="wrap_content"
+                        android:layout_height="80dp"
+                        android:layout_weight="1"
+                        android:scaleType="centerCrop"
+                        android:background="#FF333333"
+                        android:src="@drawable/tind"/>
+                    <ImageButton
+                        android:id="@+id/b_tm"
+                        android:layout_width="wrap_content"
+                        android:layout_height="80dp"
+                        android:layout_weight="1"
+                        android:scaleType="centerCrop"
+                        android:background="#FF333333"
+                        android:src="@drawable/tm"/>
+                    <ImageButton
+                        android:id="@+id/b_si"
+                        android:layout_width="wrap_content"
+                        android:layout_height="80dp"
+                        android:layout_weight="1"
+                        android:scaleType="centerCrop"
+                        android:background="#FF333333"
+                        android:src="@drawable/si"/>
+                    <ImageButton
+                        android:id="@+id/b_te"
+                        android:layout_width="wrap_content"
+                        android:layout_height="80dp"
+                        android:layout_weight="1"
+                        android:scaleType="centerCrop"
+                        android:background="#FF333333"
+                        android:src="@drawable/te"/>
+                    <ImageButton
+                        android:id="@+id/b_tmeka"
+                        android:layout_width="wrap_content"
+                        android:layout_height="80dp"
+                        android:layout_weight="1"
+                        android:scaleType="centerCrop"
+                        android:background="#FF333333"
+                        android:src="@drawable/tmeka"/>
+
+                </TableRow>
+
+            </TableLayout>
+        <TableLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:padding="15dp">
+            <TableRow android:background="#FF333333">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:textColor="#FFFFFFFF"
+                    android:text="INFORMASI"/>
+            </TableRow>
+            <TableRow
+                android:background="#FFFFFFFF"
+                android:paddingTop="8dp">
+                <TextView
+                    android:id="@+id/info1"
+                    android:paddingBottom="8dp"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="left"
+                    android:text="PENGUMUMAN HERREGISTRASI SEMESTER GASAL T.A 2020/2021" />
+            </TableRow>
+            <TableRow android:background="#FFFFFFFF">
+                <TextView
+                    android:id="@+id/info2"
+                    android:paddingBottom="8dp"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="left"
+                    android:text="PENGUMUMAN PENDAFTARAN BEASISWA BANK INDONESIA (BI) TAHUN 2020" />
+            </TableRow>
+            <TableRow android:background="#FFFFFFFF">
+                <TextView
+                    android:id="@+id/info3"
+                    android:paddingBottom="8dp"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="left"
+                    android:text="PENGUMUMAN PENAMBAHAN JADWAL KRS ONLINE SEMESTER GENAP T.A 2019/2020" />
+            </TableRow>
+            <TableRow android:background="#FFFFFFFF">
+                <TextView
+                    android:id="@+id/info4"
+                    android:paddingBottom="8dp"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="left"
+                    android:text="PENGUMUMAN PELAKSANAAN TEAP (TEST OF ENGLISH FOR ACADEMIC PURPOSE) SECARA ONLINE" />
+            </TableRow>
+            <TableRow android:background="#FFFFFFFF">
+                <TextView
+                    android:id="@+id/info5"
+                    android:paddingBottom="8dp"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="left"
+                    android:text="PELATIHAN PENULISAN ARTIKEL JURNAL INTERNATIONAL / ARTIKEL ILMIAH FAKULTAS TEKNIK" />
+            </TableRow>
+        </TableLayout>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+</RelativeLayout>

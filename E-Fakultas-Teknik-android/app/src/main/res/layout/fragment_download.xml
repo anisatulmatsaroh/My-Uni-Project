@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Download"
+    android:background="@drawable/bg2"
+    android:padding="20dp">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#FFFFFFFF">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            >
+
+            <TextView
+                android:id="@+id/judul"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="15dp"
+                android:text="Download File"
+                android:textColor="#FFFFFFFF"
+                android:textSize="25dp"
+                android:textStyle="bold"
+                android:background="#FF333333"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="AKADEMIK"
+                android:textColor="#FF333333"
+                android:textSize="17sp"
+                android:textStyle="bold"
+                android:padding="10dp"/>
+
+            <TextView
+                android:id="@+id/textView"
+                style="@style/TextAppearance.AppCompat.Subhead"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_margin="16dp"
+                android:gravity="center_horizontal"
+                android:linksClickable="true"
+                android:text="@string/example_text"
+                android:textAlignment="center" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ADMINISTRASI FAKULTAS"
+                android:textSize="17sp"
+                android:padding="10dp"
+                android:textColor="#FF333333"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView1"
+                style="@style/TextAppearance.AppCompat.Subhead"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_margin="16dp"
+                android:gravity="center_horizontal"
+                android:linksClickable="true"
+                android:text="@string/example_text1"
+                android:textAlignment="center" />
+
+            <TextView
+                android:id="@+id/textView2"
+                style="@style/TextAppearance.AppCompat.Subhead"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_margin="16dp"
+                android:gravity="center_horizontal"
+                android:linksClickable="true"
+                android:text="@string/example_text2"
+                android:textAlignment="center" />
+
+            <TextView
+                android:id="@+id/textView3"
+                style="@style/TextAppearance.AppCompat.Subhead"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_margin="16dp"
+                android:gravity="center_horizontal"
+                android:linksClickable="true"
+                android:text="@string/example_text3"
+                android:textAlignment="center" />
+
+            <TextView
+                android:id="@+id/textView4"
+                style="@style/TextAppearance.AppCompat.Subhead"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_margin="16dp"
+                android:gravity="center_horizontal"
+                android:linksClickable="true"
+                android:text="@string/example_text4"
+                android:textAlignment="center" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ADMINISTRASI JURUSAN DAN PRODI"
+                android:textSize="17sp"
+                android:textColor="#FF333333"
+                android:padding="10dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView5"
+                style="@style/TextAppearance.AppCompat.Subhead"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_margin="16dp"
+                android:gravity="center_horizontal"
+                android:linksClickable="true"
+                android:text="@string/example_text5"
+                android:textAlignment="center" />
+
+            <TextView
+                android:id="@+id/textView6"
+                style="@style/TextAppearance.AppCompat.Subhead"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_margin="16dp"
+                android:gravity="center_horizontal"
+                android:linksClickable="true"
+                android:text="@string/example_text6"
+                android:textAlignment="center" />
+
+            <TextView
+                android:id="@+id/textView7"
+                style="@style/TextAppearance.AppCompat.Subhead"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_margin="16dp"
+                android:gravity="center_horizontal"
+                android:linksClickable="true"
+                android:text="@string/example_text7"
+                android:textAlignment="center" />
+
+            <TextView
+                android:id="@+id/textView8"
+                style="@style/TextAppearance.AppCompat.Subhead"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_margin="16dp"
+                android:gravity="center_horizontal"
+                android:linksClickable="true"
+                android:text="@string/example_text8"
+                android:textAlignment="center" />
+
+            <TextView
+                android:id="@+id/textView9"
+                style="@style/TextAppearance.AppCompat.Subhead"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_margin="16dp"
+                android:gravity="center_horizontal"
+                android:linksClickable="true"
+                android:text="@string/example_text9"
+                android:textAlignment="center" />
+
+            <TextView
+                android:id="@+id/textView10"
+                style="@style/TextAppearance.AppCompat.Subhead"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_margin="16dp"
+                android:gravity="center_horizontal"
+                android:linksClickable="true"
+                android:text="@string/example_text10"
+                android:textAlignment="center" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ADMINISTRASI DOSEN DAN PEGAWAI"
+                android:textSize="17sp"
+                android:padding="10dp"
+                android:textColor="#FF333333"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView11"
+                style="@style/TextAppearance.AppCompat.Subhead"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_margin="16dp"
+                android:gravity="center_horizontal"
+                android:linksClickable="true"
+                android:text="@string/example_text11"
+                android:textAlignment="center" />
+
+            <TextView
+                android:id="@+id/textView12"
+                style="@style/TextAppearance.AppCompat.Subhead"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_margin="16dp"
+                android:gravity="center_horizontal"
+                android:linksClickable="true"
+                android:text="@string/example_text12"
+                android:textAlignment="center" />
+
+            <TextView
+                android:id="@+id/textView13"
+                style="@style/TextAppearance.AppCompat.Subhead"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_margin="16dp"
+                android:gravity="center_horizontal"
+                android:linksClickable="true"
+                android:text="@string/example_text13"
+                android:textAlignment="center" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ADMINISTRASI MAHASISWA"
+                android:textSize="17sp"
+                android:padding="10dp"
+                android:textColor="#FF333333"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/textView14"
+                style="@style/TextAppearance.AppCompat.Subhead"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_margin="16sp"
+                android:gravity="left"
+                android:linksClickable="true"
+                android:text="@string/example_text14"
+                />
+            <TextView
+                android:id="@+id/textView15"
+                style="@style/TextAppearance.AppCompat.Subhead"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_margin="16dp"
+                android:gravity="left"
+                android:linksClickable="true"
+                android:text="@string/example_text15"
+                 />
+            <TextView
+                android:id="@+id/textView16"
+                style="@style/TextAppearance.AppCompat.Subhead"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_margin="16dp"
+                android:gravity="left"
+                android:linksClickable="true"
+                android:text="@string/example_text16"
+               />
+            <TextView
+                android:id="@+id/textView17"
+                style="@style/TextAppearance.AppCompat.Subhead"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_margin="16dp"
+                android:gravity="left"
+                android:linksClickable="true"
+                android:text="@string/example_text17"
+               />
+            <TextView
+                android:id="@+id/textView18"
+                style="@style/TextAppearance.AppCompat.Subhead"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_margin="16dp"
+                android:gravity="left"
+                android:linksClickable="true"
+                android:text="@string/example_text18"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ADMINISTRASI YUDISIUM"
+                android:padding="10dp"
+                android:textSize="17sp"
+                android:textColor="#FF333333"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/textView19"
+                style="@style/TextAppearance.AppCompat.Subhead"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_margin="16dp"
+                android:gravity="left"
+                android:linksClickable="true"
+                android:text="@string/example_text19"
+                />
+            <TextView
+                android:id="@+id/textView20"
+                style="@style/TextAppearance.AppCompat.Subhead"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_margin="16dp"
+                android:gravity="left"
+                android:linksClickable="true"
+                android:text="@string/example_text20"
+             />
+            <TextView
+                android:id="@+id/textView21"
+                style="@style/TextAppearance.AppCompat.Subhead"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_margin="16dp"
+                android:gravity="left"
+                android:linksClickable="true"
+                android:text="@string/example_text21"
+                />
+            <TextView
+                android:id="@+id/textView22"
+                style="@style/TextAppearance.AppCompat.Subhead"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_margin="16dp"
+                android:gravity="left"
+                android:linksClickable="true"
+                android:text="@string/example_text22"
+               />
+            <TextView
+                android:id="@+id/textView23"
+                style="@style/TextAppearance.AppCompat.Subhead"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_margin="16dp"
+                android:gravity="left"
+                android:linksClickable="true"
+                android:text="@string/example_text23"
+                />
+            <TextView
+                android:id="@+id/textView24"
+                style="@style/TextAppearance.AppCompat.Subhead"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_margin="16dp"
+                android:gravity="left"
+                android:linksClickable="true"
+                android:text="@string/example_text24"
+               />
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/recyclerview"/>
+
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+
+</LinearLayout>

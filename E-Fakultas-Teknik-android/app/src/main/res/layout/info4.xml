@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#FFFF"
+    tools:context="com.example.e_ft.info4"
+    android:padding="20dp"
+    android:id="@+id/info">
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <TextView
+            android:id="@+id/judul"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="PENGUMUMAN PELAKSANAAN TEAP (TEST OF ENGLISH FOR ACADEMIC PURPOSE) SECARA ONLINE"
+            android:textColor="#000000"
+            android:textSize="20dp"
+            android:textStyle="bold"/>
+        <TextView
+            android:id="@+id/ketWaktu"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Posted on October 8, 2020"
+            android:layout_alignLeft="@+id/judul"
+            android:layout_below="@+id/judul"/>
+
+        <TextView
+            android:id="@+id/txtisi"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="15sp"
+            android:text="@string/info4"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:layout_alignLeft="@+id/ketWaktu"
+            android:layout_below="@+id/ketWaktu"
+            android:textColor="#000000"/>
+
+        <TextView
+            android:id="@+id/download"
+            android:layout_width="wrap_content"
+            android:layout_height="25dp"
+            android:layout_below="@id/txtisi"
+            android:text="@string/d_info4"
+            android:textColor="#FFFFFF"
+            android:background="#FF008000"
+            />
+
+        <TextView
+            android:id="@+id/komentar"
+            android:text="Comment"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/txtisi"
+            android:layout_below="@+id/download"
+            android:padding="10dp"/>
+
+        <EditText android:id="@+id/teksKomentar"
+            android:layout_width="match_parent"
+            android:layout_height="75dp"
+            android:textSize="18sp"
+            android:layout_alignLeft="@+id/komentar"
+            android:layout_below="@+id/komentar"
+            android:layout_centerHorizontal="true"
+            android:background="#3222"
+            android:layout_margin="3dp"/>
+
+        <TextView
+            android:id="@+id/nama"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/teksKomentar"
+            android:layout_alignLeft="@+id/teksKomentar"
+            android:padding="20dp"
+            android:text="Name*" />
+
+        <EditText
+            android:id="@+id/teksNama"
+            android:layout_width="170dp"
+            android:layout_height="32dp"
+            android:layout_below="@+id/nama"
+            android:layout_centerHorizontal="true"
+            android:layout_marginStart="3dp"
+            android:layout_marginTop="-37dp"
+            android:layout_marginEnd="3dp"
+            android:layout_marginBottom="3dp"
+            android:background="#3222"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/email"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/teksNama"
+            android:gravity="left"
+            android:padding="20dp"
+            android:text="Email*" />
+
+        <EditText
+            android:id="@+id/teksEmail"
+            android:layout_width="170dp"
+            android:layout_height="32dp"
+            android:layout_below="@+id/email"
+            android:layout_centerHorizontal="true"
+            android:layout_marginStart="3dp"
+            android:layout_marginTop="-36dp"
+            android:layout_marginEnd="3dp"
+            android:layout_marginBottom="3dp"
+            android:background="#3222"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/website"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/teksEmail"
+            android:padding="20dp"
+            android:text="Website" />
+
+        <EditText
+            android:id="@+id/teksWeb"
+            android:layout_width="170dp"
+            android:layout_height="32dp"
+            android:layout_below="@+id/website"
+            android:layout_centerHorizontal="true"
+            android:layout_marginStart="3dp"
+            android:layout_marginTop="-35dp"
+            android:layout_marginEnd="3dp"
+            android:layout_marginBottom="3dp"
+            android:background="#3222"
+            android:textSize="18sp" />
+
+        <Button
+            android:id="@+id/btnPost"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/website"
+            android:layout_alignLeft="@+id/website"
+            android:layout_marginStart="3dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="23dp"
+            android:layout_marginEnd="3dp"
+            android:layout_marginBottom="3dp"
+            android:background="#F44336"
+            android:text="Post Comment"
+            android:textColor="#FFFFFF" />
+
+        <TextView
+            android:text=""
+            android:id="@+id/error"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#ff0000ff"
+            />
+
+    </RelativeLayout>
+</ScrollView>

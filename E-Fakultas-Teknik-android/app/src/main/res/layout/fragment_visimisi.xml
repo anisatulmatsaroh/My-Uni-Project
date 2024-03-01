@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.e_ft.VisiMisi"
+    android:padding="20dp"
+    android:background="@drawable/bg2"
+    android:id="@+id/fragment_visimisi">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"
+        android:background="#FFFFFFFF">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            >
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                >
+
+                <TextView
+                    android:gravity="left"
+                    android:padding="15dp"
+                    android:id="@+id/textView12"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/visi_misi"
+                    android:textColor="#FFFFFFFF"
+                    android:textSize="25dp"
+                    android:textStyle="bold"
+                    tools:ignore="RtlSymmetry"
+                    android:background="#FF333333"/>
+
+                <TextView
+                    android:padding="20dp"
+                    android:gravity="left"
+                    android:textColor="#000000"
+                    android:id="@+id/textView14"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/textView12"
+                    android:text="@string/visi_fakultas_teknik_universitas_trunojoyo_madura"
+                    android:textStyle="bold"
+                    android:textSize="20dp"
+                    tools:ignore="RtlSymmetry" />
+
+                <TextView
+                    android:id="@+id/textView15"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_below="@id/textView14"
+                    android:gravity="left"
+                    android:textSize="16dp"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="20dp"
+                    android:text="@string/akhir_tahun_2022_fakultas_teknikuniversitas_trunojoyo_madura_menjadi_fakultas_yang_unggul_di_tingkat_nasional_dalam_bidang_pendidikan_dan_riset_engineering"
+                    tools:ignore="RtlSymmetry" />
+
+                <TextView
+                    android:id="@+id/textView16"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/textView15"
+                    android:padding="20dp"
+                    android:gravity="left"
+                    android:textColor="#000000"
+                    android:text="@string/misi_fakultas_teknik_universitas_trunojoyo_madura"
+                    android:textStyle="bold"
+                    android:textSize="20dp"
+                    tools:ignore="RtlSymmetry" />
+
+                <TextView
+                    android:id="@+id/textView17"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/textView16"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="20dp"
+                    android:gravity="left"
+                    android:textSize="16dp"
+                    android:text="@string/_1_menyelenggarakan_pendidikan_yang_berkualitas_untuk_menghasilkan_lulusan_ilmu_pengetahuan_dan_teknologi_yang_sesuai_dengan_kebutuhan_stakeholder"
+                    tools:ignore="RtlSymmetry" />
+
+                <TextView
+                    android:id="@+id/textView19"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/textView17"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="20dp"
+                    android:paddingTop="10dp"
+                    android:gravity="left"
+                    android:textSize="16dp"
+                    android:text="@string/_2_melakukan_penelitian_untuk_mendukung_peningkatan_kualitas_pendidikan_ilmu_pengetahuan_dan_teknologi"
+                    tools:ignore="RtlSymmetry" />
+
+                <TextView
+                    android:id="@+id/textView20"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/textView19"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="20dp"
+                    android:paddingTop="10dp"
+                    android:gravity="left"
+                    android:textSize="16dp"
+                    android:text="@string/_3_melaksanakan_pengabdian_kepada_masyarakat_berbasis_ilmu_pengetahuan_teknologi_dan_hasil_penelitian_untuk_memberikan_kontribusi_bagi_masyarakat"
+                    tools:ignore="RtlSymmetry" />
+
+                <TextView
+                    android:id="@+id/textView4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/textView20"
+                    android:layout_alignParentStart="true"
+                    android:padding="20dp"
+                    android:gravity="left"
+                    android:textColor="#000000"
+                    android:text="@string/tujuan_fakultas_teknik_universitas_trunojoyo_madura"
+                    android:textStyle="bold"
+                    android:textSize="20dp"
+                    tools:ignore="RtlSymmetry" />
+
+                <TextView
+                    android:id="@+id/textView13"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/textView4"
+                    android:layout_alignParentEnd="true"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="20dp"
+                    android:gravity="left"
+                    android:textSize="16dp"
+                    android:text="@string/_1_menghasilkan_lulusan_yang_mampu_memenuhi_kebutuhan_stakeholdernya"
+                    tools:ignore="RtlSymmetry" />
+
+                <TextView
+                    android:id="@+id/textView18"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/textView13"
+                    android:layout_alignParentEnd="true"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="20dp"
+                    android:paddingTop="10dp"
+                    android:gravity="left"
+                    android:textSize="16dp"
+                    android:text="@string/_2_membentuk_sistem_pendidikan_yang_handal_rebiable_untuk_mengembangkan_ilmu_dan_pengetahuan_dalam_bidang_engineeringyang_sesuai_dengan_kebutuhan_stakeholder"
+                    tools:ignore="RtlSymmetry" />
+
+                <TextView
+                    android:id="@+id/textView21"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/textView18"
+                    android:layout_alignParentEnd="true"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="20dp"
+                    android:paddingTop="10dp"
+                    android:gravity="left"
+                    android:textSize="16dp"
+                    android:text="@string/_3_meningkatkan_hasil_karya_penelitian_dalam_bentuk_publikasi_ilmiah_dan_terapan_teknologi_yang_bermamfaat_bagi_civitas_akademik_dan_masyarakat"
+                    tools:ignore="RtlSymmetry" />
+
+                <TextView
+                    android:id="@+id/textView22"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/textView21"
+                    android:layout_alignParentEnd="true"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="20dp"
+                    android:paddingTop="10dp"
+                    android:gravity="left"
+                    android:textSize="16dp"
+                    android:text="@string/_4_membangun_dan_meningkatkan_kerjasama_dengan_stakeholder_untuk_meningkatkan_kualitas_pendidikan_penelitian_dan_pengabdian_pada_masyarakat"
+                    tools:ignore="RtlSymmetry" />
+
+                <TextView
+                    android:id="@+id/textView23"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/textView22"
+                    android:layout_alignParentEnd="true"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="20dp"
+                    android:paddingTop="10dp"
+                    android:paddingBottom="10dp"
+                    android:gravity="left"
+                    android:textSize="16dp"
+                    android:text="@string/_5_menghasilkan_jalinan_kerja_sama_yang_senergis_dan_berkelanjutan"
+                    tools:ignore="RtlSymmetry" />
+
+
+
+            </RelativeLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>
